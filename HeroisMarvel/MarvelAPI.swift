@@ -44,3 +44,4 @@ class MarvelAPI {
         return "ts=\(ts)&apikey=\(publicKey)&hash=\(hash)"
     }
 }
+
