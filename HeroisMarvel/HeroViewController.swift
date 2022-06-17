@@ -34,4 +34,3 @@ extension HeroViewController: WKNavigationDelegate {
         loading.stopAnimating()
     }
 }
-

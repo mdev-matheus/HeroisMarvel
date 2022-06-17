@@ -27,4 +27,3 @@ class ViewController: UIViewController {
         vc.name = tfName.text
     }
 }
-

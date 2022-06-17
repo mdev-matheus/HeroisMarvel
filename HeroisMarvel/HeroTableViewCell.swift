@@ -39,4 +39,3 @@ class HeroTableViewCell: UITableViewCell {
         ivThumb.layer.borderWidth = 2
     }
 }
-
